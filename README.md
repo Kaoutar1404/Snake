@@ -1,4 +1,4 @@
-# Snake — PwnSec CTF 2024 — Write-Up
+# Snake — PwnSec CTF 
 
 **Auteure :** Kaoutar Menacera  
 **Niveau :** Hard  
